@@ -1,0 +1,15 @@
+board size is:5	mode is : user versus user
+order:2
+			X DOMAIN
+
+	a	b	c	d	e	
+1	o	.	.	.	.	
+
+2	x	.	.	.	.	O DOMAIN
+
+3	o	.	.	.	.	
+
+4	.	.	.	.	.	
+
+5	.	.	.	.	.	
+

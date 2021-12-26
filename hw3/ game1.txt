@@ -1,0 +1,13 @@
+board size is:6	mode is : user versus user
+o	.	.	.	.	.	
+
+o	.	.	.	.	x	
+
+.	.	o	.	.	.	
+
+.	.	.	.	.	.	
+
+.	.	.	.	.	x	
+
+.	.	.	.	.	.	
+

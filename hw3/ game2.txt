@@ -1,0 +1,11 @@
+board size is:5	mode is : user versus computer
+o	.	.	.	.	
+
+o	.	.	.	.	
+
+x	.	.	.	.	
+
+o	.	.	x	.	
+
+.	x	.	.	.	
+

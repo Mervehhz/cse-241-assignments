@@ -1,0 +1,12 @@
+void boardSizeInput(int&);
+void creatingBoard(char board[][12], int);
+void whichModePlay(int&);
+void printBoardToScreen(char board[][12], int);
+void inputLocationFromUser(char board[][12], int);
+void inputLocationFromComputer(char board[][12], int);
+bool checkFirstLetter(char board[][12], int, char,int solve[][12]);
+int solveHexGame(int solveHex[][12], int, int, int solve[][12]);
+bool whoIsWinnerComputer(int solveHex[][12], int solve[][12], int, int, int, int visited[][12]);
+bool whoIsWinnerUser(int solveHex[][12], int solve[][12], int, int, int, int visited[][12]);
+bool outOfBorder(int solveHex[][12], int, int, int, int visited[][12]);
+void upperCaseLetterWhoWin(int solve[][12], char board[][12], int);
