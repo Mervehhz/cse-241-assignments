@@ -23,14 +23,3 @@ o hamle hala boardda kalır ve bir tur oynanıca siler. bir tur 2 kullanıcını
 
 undo ile ilgili son olarak;
 multigamede oynarken eğer bir taraf kazandıysa o an hemen kazandınız demez turu tamamlamanı bekler yani bu durumda undo seçeneklerine no demeniz gerekir, no dedikten sonra oyun biter.
-
-
-hocam size ayrı bir not olarak;
-
-destructoru kullanmaya çalıştığımda multi game kısmında double free detected hatası alıyorum.
-ayrıca kendim ayrı bir destructor yazdığımda (adı ~Hex olmayan) segmentation fault veriyor.
-nasıl yapacağımı bilemedim ve ayrıca sınavla üst üste geldiği için özellikle uğraşamadım.
-bu yüzden destructoru yazdım fakat yoruma aldım.
-
-ayrıca bir tane warning veriyor hocam.
-o parametreyi overload etmek için zorunlu olarak kullandım.
